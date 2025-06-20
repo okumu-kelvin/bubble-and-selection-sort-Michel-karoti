@@ -8,3 +8,4 @@ def test_reverse():
 
 def test_duplicates():
     assert selection_sort([29, 10, 14, 37, 14]) == [10, 14, 14, 29, 37]
+
